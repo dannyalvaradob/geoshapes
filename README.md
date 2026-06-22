@@ -75,11 +75,11 @@ After adding a Rectangle (base: 5, height: 3):
 Area: 15
 Perimetro: 16
 
-. . . . . . . . . 
+. . . . . . . . . .
 .                 . 
 .                 . 
 .                 . 
-. . . . . . . . . 
+. . . . . . . . . .
 ```
 
 ---
